@@ -23,6 +23,7 @@
 #ifndef INCLUDED_GR_LOGGER_H
 #define INCLUDED_GR_LOGGER_H
 
+#define ANDROID 1
 /*!
  * \ingroup logging
  * \brief GNU Radio logging wrapper for log4cpp library (C++ port of log4j)

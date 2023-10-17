@@ -30,6 +30,7 @@
 #include "config.h"
 #endif
 
+#define ANDROID 1
 #include <gnuradio/logger.h>
 
 #ifdef ANDROID
